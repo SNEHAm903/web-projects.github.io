@@ -1,0 +1,126 @@
+/* Global Properties */
+/* html {
+  scroll-behavior: smooth;
+} */
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    font-family: 'Lato', sans-serif;
+    background: linear-gradient(to right, #00bf8f 0%, #001510 100%);
+  }
+  
+  /* Main Heading Font */
+  .m-heading {
+    font-family: "Roboto Slab", serif;
+  }
+/* Global Properties */
+html {
+    scroll-behavior: smooth;
+  }
+  
+  
+  /* Main Heading Font */
+  .m-heading {
+    font-family: "Roboto Slab", serif;
+  }
+  
+  /* Navigation */
+  .navigation-link {
+    border-radius: 0mm;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: rgb(242, 249, 250);
+    text
+    text-decoration-color: rgb(189, 219, 19);
+    
+  }
+  .navigation-
+  
+  .navigation-link:hover {
+    
+    text-decoration-color:rgb(189, 219, 19);
+    text-overflow: unset;
+    text-size-adjust: 1px;
+    border-bottom: 1px solid #f5ba09;
+    transition: 1s ease;
+    text-align: center;
+  }
+  
+  /* Main Container height*/
+  .main-container {
+    height: 100vh;
+    padding: 3rem;
+  }
+  
+  /* Aligning items in main row */
+  .main_row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+  }
+  
+  /* Changing Name Font sixe */
+  .main_row h1 {
+    font-size: 5rem;
+    text-align: start;
+  }
+  .main_row h2{
+    text-align: start;
+    
+  }
+  
+  /* Making the main image the size of the screen */
+  .main_row img {
+    width: 300px;
+    height: 500px;
+    shape-image-threshold: initial;
+     padding: 0mm;
+     position: static;
+     object-position: top;
+     float: right;
+     border-radius: 30px;
+     border-color: black;
+
+  }
+  .main-row h3{
+    text-align: end;
+    border-radius: 0px;
+    
+  }
+  
+  /* About Section */
+  .about {
+    background: linear-gradient(to right, #373b44 0%, #73c8a9 100%);
+    border-radius: 0.5rem;
+    border-image-width: 0px;
+  }
+  .about img{
+    float: center;
+    width: 300px;
+    height: 300px;
+  } 
+  
+  .card {
+    border-bottom: 8px solid #f5ba09;
+  }
+  
+  /* Social Media Section */
+  #social-media {
+    background: #313552;
+  }
+  
+  /* Add color to Social Media Links */
+  .media_link {
+    padding: 1rem;
+    max-width: 15rem;
+    margin-left: 1rem;
+    border: 2px solid #f5ba09;
+    border-radius: 0.5rem;
+    h
+  }
+  
+
